@@ -1,4 +1,4 @@
-import java.sql.SQLOutput;
+
 import java.util.*;
 
 public class AddressBook {
@@ -6,6 +6,7 @@ public class AddressBook {
 
     public AddressBook()
     {
+
         buddyCollection = new ArrayList<>();
     }
 
@@ -14,6 +15,11 @@ public class AddressBook {
 
         buddyCollection.add(buddy);
     }
+
+    int test(){
+        return 0; // Test method branching
+    }
+
     
     // The following comment confirms that text gets added properly.
     // Test 2
