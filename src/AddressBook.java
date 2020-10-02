@@ -14,6 +14,8 @@ public class AddressBook {
 
         buddyCollection.add(buddy);
     }
+    
+    // The following comment confirms that text gets added properly.
 
     public void removeBuddy(BuddyInfo buddy)
     {
