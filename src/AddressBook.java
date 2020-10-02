@@ -16,6 +16,7 @@ public class AddressBook {
     }
     
     // The following comment confirms that text gets added properly.
+    // Test 2
 
     public void removeBuddy(BuddyInfo buddy)
     {
